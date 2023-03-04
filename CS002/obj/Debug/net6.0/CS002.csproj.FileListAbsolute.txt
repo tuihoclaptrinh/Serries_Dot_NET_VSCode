@@ -1,0 +1,15 @@
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\bin\Debug\net6.0\CS002.exe
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\bin\Debug\net6.0\CS002.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\bin\Debug\net6.0\CS002.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\bin\Debug\net6.0\CS002.dll
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\bin\Debug\net6.0\CS002.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.dll
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\refint\CS002.dll
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\CS002.genruntimeconfig.cache
+D:\ManagerProgramming\Project_DotNet\C#\Serries_Net_With_VSCode\CS002\obj\Debug\net6.0\ref\CS002.dll
